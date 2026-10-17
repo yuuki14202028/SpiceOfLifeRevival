@@ -12,7 +12,7 @@ jobs:
   release:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
       - name: Check the tag matches the mod version
         run: |
           version=$(grep '^version=' gradle.properties | cut -d= -f2)
@@ -20,11 +20,11 @@ jobs:
             echo "Tag $GITHUB_REF_NAME does not match version=$version in gradle.properties" >&2
             exit 1
           fi
-      - uses: actions/setup-java@v5
+      - uses: actions/setup-java@v6
         with:
           distribution: temurin
           java-version: 25
-      - uses: gradle/actions/setup-gradle@v5
+      - uses: gradle/actions/setup-gradle@v6
       - run: ./gradlew build
       - name: Create the release
         env:
