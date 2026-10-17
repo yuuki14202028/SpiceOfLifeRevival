@@ -108,6 +108,22 @@ NeoForge はこの2つのクラスにパッチを当てていないため、両�
 
 - 食事の記憶を時間経過でも忘れるようにする
 
+## リリース
+
+1. `gradle.properties` の `version` を上げてコミットします（例：`0.2.0+26.3`）。
+2. `+` より前の部分でタグを付けて push します。
+
+```sh
+git tag v0.2.0
+git push origin v0.2.0
+```
+
+GitHub Actions が両ローダーの jar をビルドして、GitHub Releases に添付します。
+タグと `version` が食い違っているときは、リリースせずに失敗します。
+main への push とプルリクエストでは、ビルドが通るかだけを確認します。
+
+アイコンは `tools/make_icon.py` で描いています（`python3 tools/make_icon.py common/src/main/resources/assets/solrevival/icon.png`。Pillow が必要です）。
+
 ## ライセンス
 
 [MIT License](LICENSE)
