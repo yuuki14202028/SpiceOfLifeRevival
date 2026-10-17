@@ -1,0 +1,7 @@
+{
+  "message.solrevival.bored": "%s починає набридати (поживність %s%%)",
+  "message.solrevival.sick_of": "Вас уже нудить від цього: %s. Жодної користі.",
+  "command.solrevival.history": "Останні прийоми їжі (%s/%s, спершу нові): %s",
+  "command.solrevival.held": "%s: зараз %s%% поживності",
+  "tooltip.solrevival.value": "Поживність: %s%%"
+}

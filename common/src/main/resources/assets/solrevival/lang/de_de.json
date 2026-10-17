@@ -1,0 +1,7 @@
+{
+  "message.solrevival.bored": "%s hängt dir langsam zum Hals raus (%s%% Nährwert)",
+  "message.solrevival.sick_of": "Du kannst %s nicht mehr sehen. Bringt dir nichts.",
+  "command.solrevival.history": "Letzte Mahlzeiten (%s/%s, neueste zuerst): %s",
+  "command.solrevival.held": "%s: derzeit %s%% Nährwert",
+  "tooltip.solrevival.value": "Nährwert: %s%%"
+}

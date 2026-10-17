@@ -1,0 +1,7 @@
+{
+  "message.solrevival.bored": "Vous commencez à vous lasser : %s (valeur nutritive %s %%)",
+  "message.solrevival.sick_of": "Vous en avez assez : %s. Cela ne vous apporte plus rien.",
+  "command.solrevival.history": "Repas récents (%s/%s, du plus récent au plus ancien) : %s",
+  "command.solrevival.held": "%s : actuellement %s %% de valeur nutritive",
+  "tooltip.solrevival.value": "Valeur nutritive : %s %%"
+}

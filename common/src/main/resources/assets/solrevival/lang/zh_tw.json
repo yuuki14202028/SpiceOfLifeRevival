@@ -1,0 +1,7 @@
+{
+  "message.solrevival.bored": "你開始吃膩%s了（營養價值 %s%%）",
+  "message.solrevival.sick_of": "你已經受夠%s了，吃了毫無效果。",
+  "command.solrevival.history": "最近的飲食（%s/%s，由新到舊）：%s",
+  "command.solrevival.held": "%s目前的營養價值為 %s%%",
+  "tooltip.solrevival.value": "營養價值：%s%%"
+}

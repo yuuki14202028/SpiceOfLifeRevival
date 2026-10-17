@@ -1,0 +1,7 @@
+{
+  "message.solrevival.bored": "%s에 질리기 시작했다 (영양가 %s%%)",
+  "message.solrevival.sick_of": "%s에 완전히 질렸다. 아무 효과도 없다.",
+  "command.solrevival.history": "최근 식사 (%s/%s, 최신순): %s",
+  "command.solrevival.held": "%s의 현재 영양가: %s%%",
+  "tooltip.solrevival.value": "영양가: %s%%"
+}

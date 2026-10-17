@@ -1,0 +1,7 @@
+{
+  "message.solrevival.bored": "%sに飽きてきた…（回復量 %s%%）",
+  "message.solrevival.sick_of": "%sはもう見たくもない。まったく回復しない。",
+  "command.solrevival.history": "最近の食事（%s/%s件、新しい順）: %s",
+  "command.solrevival.held": "%sの今の回復量は %s%%",
+  "tooltip.solrevival.value": "回復量: %s%%"
+}

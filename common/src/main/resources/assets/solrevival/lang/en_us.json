@@ -1,0 +1,7 @@
+{
+  "message.solrevival.bored": "You're getting tired of %s (%s%% value)",
+  "message.solrevival.sick_of": "You're sick of %s. It gives you nothing.",
+  "command.solrevival.history": "Recent meals (%s/%s, newest first): %s",
+  "command.solrevival.held": "%s is worth %s%% right now",
+  "tooltip.solrevival.value": "Value: %s%%"
+}
