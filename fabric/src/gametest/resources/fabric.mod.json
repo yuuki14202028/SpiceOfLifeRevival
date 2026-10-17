@@ -1,0 +1,15 @@
+{
+    "schemaVersion": 1,
+    "id": "solrevival-gametest",
+    "version": "1.0.0",
+    "name": "Spice of Life: Revival game tests",
+    "environment": "*",
+    "entrypoints": {
+        "fabric-client-gametest": [
+            "dev.solrevival.gametest.GalleryScreenshots"
+        ]
+    },
+    "depends": {
+        "solrevival": "*"
+    }
+}

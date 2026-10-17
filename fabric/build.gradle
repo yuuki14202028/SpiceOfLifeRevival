@@ -47,6 +47,18 @@ loom {
     }
 }
 
+// Client game tests in src/gametest. GalleryScreenshots plays a short scene and saves screenshots for
+// the mod page: ./gradlew :fabric:runClientGameTest (output in build/run/clientGameTest/screenshots)
+fabricApi {
+    configureTests {
+        createSourceSet = true
+        modId = "${mod_id}-gametest"
+        enableGameTests = false
+        enableClientGameTests = true
+        eula = true
+    }
+}
+
 // Implement mcgradleconventions loader attribute
 def loaderAttribute = Attribute.of('io.github.mcgradleconventions.loader', String)
 ['apiElements', 'runtimeElements', 'sourcesElements', 'javadocElements', 'includeInternal', 'modCompileClasspath'].each { variant ->
