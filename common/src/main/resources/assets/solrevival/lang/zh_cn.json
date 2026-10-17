@@ -3,5 +3,7 @@
   "message.solrevival.sick_of": "你已经受够%s了，吃了毫无效果。",
   "command.solrevival.history": "最近的饮食（%s/%s，从新到旧）：%s",
   "command.solrevival.held": "%s当前的营养价值为 %s%%",
-  "tooltip.solrevival.value": "营养价值：%s%%"
+  "tooltip.solrevival.value": "营养价值：%s%%",
+  "command.solrevival.reset.single": "已重置%s的饮食记录",
+  "command.solrevival.reset.multiple": "已重置%s名玩家的饮食记录"
 }

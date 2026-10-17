@@ -4,6 +4,7 @@
   "package": "dev.solrevival.mixin",
   "compatibilityLevel": "JAVA_25",
   "mixins": [
+    "CakeBlockMixin",
     "FoodPropertiesMixin",
     "ItemMixin",
     "ItemStackMixin",

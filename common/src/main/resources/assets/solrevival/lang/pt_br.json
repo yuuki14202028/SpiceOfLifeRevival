@@ -3,5 +3,7 @@
   "message.solrevival.sick_of": "Você não aguenta mais: %s. Não serve de nada.",
   "command.solrevival.history": "Refeições recentes (%s/%s, mais recentes primeiro): %s",
   "command.solrevival.held": "%s: vale %s%% no momento",
-  "tooltip.solrevival.value": "Valor nutritivo: %s%%"
+  "tooltip.solrevival.value": "Valor nutritivo: %s%%",
+  "command.solrevival.reset.single": "Histórico de refeições redefinido: %s",
+  "command.solrevival.reset.multiple": "Histórico de refeições de %s jogadores redefinido"
 }

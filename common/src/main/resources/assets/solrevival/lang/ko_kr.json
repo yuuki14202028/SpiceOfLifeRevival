@@ -3,5 +3,7 @@
   "message.solrevival.sick_of": "%s에 완전히 질렸다. 아무 효과도 없다.",
   "command.solrevival.history": "최근 식사 (%s/%s, 최신순): %s",
   "command.solrevival.held": "%s의 현재 영양가: %s%%",
-  "tooltip.solrevival.value": "영양가: %s%%"
+  "tooltip.solrevival.value": "영양가: %s%%",
+  "command.solrevival.reset.single": "%s의 식사 기록을 초기화했습니다",
+  "command.solrevival.reset.multiple": "플레이어 %s명의 식사 기록을 초기화했습니다"
 }

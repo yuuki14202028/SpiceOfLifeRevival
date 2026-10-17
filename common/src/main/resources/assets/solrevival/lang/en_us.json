@@ -3,5 +3,7 @@
   "message.solrevival.sick_of": "You're sick of %s. It gives you nothing.",
   "command.solrevival.history": "Recent meals (%s/%s, newest first): %s",
   "command.solrevival.held": "%s is worth %s%% right now",
-  "tooltip.solrevival.value": "Value: %s%%"
+  "tooltip.solrevival.value": "Value: %s%%",
+  "command.solrevival.reset.single": "Reset the meal history of %s",
+  "command.solrevival.reset.multiple": "Reset the meal history of %s players"
 }

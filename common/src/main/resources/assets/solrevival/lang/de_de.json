@@ -3,5 +3,7 @@
   "message.solrevival.sick_of": "Du kannst %s nicht mehr sehen. Bringt dir nichts.",
   "command.solrevival.history": "Letzte Mahlzeiten (%s/%s, neueste zuerst): %s",
   "command.solrevival.held": "%s: derzeit %s%% Nährwert",
-  "tooltip.solrevival.value": "Nährwert: %s%%"
+  "tooltip.solrevival.value": "Nährwert: %s%%",
+  "command.solrevival.reset.single": "Mahlzeitenverlauf zurückgesetzt: %s",
+  "command.solrevival.reset.multiple": "Mahlzeitenverlauf von %s Spielern zurückgesetzt"
 }
